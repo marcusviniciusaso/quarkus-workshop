@@ -1,0 +1,1 @@
+{"id":"UnzipArchivesToOutputRuleProvider_3","content":"addRule()\n\t.when(Query.fromType(org.jboss.windup.graph.model.ArchiveModel).gremlin()org.jboss\n\t\t.windup.config.query.Query$1@2b15c5f9.as(default)\n)\n\t.perform(Iteration.over(?).perform(DuplicateArchiveOperation with var 'default_instance')\n)\nwithId(\"UnzipArchivesToOutputRuleProvider_3\")"}

@@ -1,0 +1,1 @@
+{"id":"2117672","content":"package org.aopalliance.intercept;\n\nimport javax.annotation.Nonnull;\n\npublic interface Invocation extends Joinpoint {\n   @Nonnull\n   Object[] getArguments();\n}\n"}

@@ -1,0 +1,1 @@
+{"id":"connect-01600","content":"addRule()\n\t.when(File.from(null).inFilesNamed({*}openws{*}).as(default)\n)\n\t.perform(Iteration.over(?).perform(3 with var 'null')\n)\nwithId(\"connect-01600\")"}

@@ -1,0 +1,1 @@
+{"id":"1564776","content":"package org.springframework.aop.framework;\n\nimport org.springframework.lang.Nullable;\n\npublic interface AopProxy {\n   Object getProxy();\n\n   Object getProxy(@Nullable ClassLoader var1);\n}\n"}

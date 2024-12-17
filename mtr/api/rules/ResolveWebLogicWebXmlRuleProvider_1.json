@@ -1,0 +1,1 @@
+{"id":"ResolveWebLogicWebXmlRuleProvider_1","content":"addRule()\n\t.when(Query.fromType(org.jboss.windup.rules.apps.xml.model.XmlFileModel).gremlin()\n\t\t.has(rootTagName,EQUALS,weblogic-web-app).as(default)\n)\n\t.perform(Iteration.over(?).perform(Discover WebLogic Web Files)\n)\nwithId(\"ResolveWebLogicWebXmlRuleProvider_1\")"}

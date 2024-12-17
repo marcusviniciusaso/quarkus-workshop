@@ -1,0 +1,1 @@
+{"id":"ApplicationHardcodedIpAddressesRuleProvider_1","content":"addRule()\n\t.perform(org.jboss.windup.reporting.data.rules.AbstractApiRuleProvider$1@2643f76e\n)\nwithId(\"ApplicationHardcodedIpAddressesRuleProvider_1\")"}

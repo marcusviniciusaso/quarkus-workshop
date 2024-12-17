@@ -1,0 +1,1 @@
+{"id":"javaee-technology-tag-000100","content":"addRule()\n\t.when(Query.fromType(org.jboss.windup.reporting.model.TechnologyUsageStatisticsModel)\n\t\t.as(default)\n)\n\t.perform(Iteration.over(?).perform(1 with var 'default_instance')\n)\nwithId(\"javaee-technology-tag-000100\")"}

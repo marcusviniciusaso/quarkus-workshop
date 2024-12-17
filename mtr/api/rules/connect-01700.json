@@ -1,0 +1,1 @@
+{"id":"connect-01700","content":"addRule()\n\t.when(File.from(null).inFilesNamed({*}wsdl{*}).as(default)\n)\n\t.perform(Iteration.over(?).perform(4 with var 'null')\n)\nwithId(\"connect-01700\")"}

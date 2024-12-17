@@ -1,0 +1,1 @@
+{"id":"database-02800","content":"addRule()\n\t.when(File.from(null).inFilesNamed({*}leveldb{*}.jar).as(default)\n)\n\t.perform(Iteration.over(?).perform(15 with var 'null')\n)\nwithId(\"database-02800\")"}

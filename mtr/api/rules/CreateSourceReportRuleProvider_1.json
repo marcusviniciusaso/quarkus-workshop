@@ -1,0 +1,1 @@
+{"id":"CreateSourceReportRuleProvider_1","content":"addRule()\n\t.when(Not.any(Query.fromType(org.jboss.windup.graph.model.WindupConfigurationModel)\n\t\t.gremlin().has(skipSourceCodeReports,EQUALS,true).as(default))\n)\n\t.perform(AddSourceReport\n)\nwithId(\"CreateSourceReportRuleProvider_1\")"}

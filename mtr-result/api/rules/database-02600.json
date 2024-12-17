@@ -1,0 +1,1 @@
+{"id":"database-02600","content":"addRule()\n\t.when(File.from(null).inFilesNamed(spring-data{*}.jar).as(default)\n)\n\t.perform(Iteration.over(?).perform(13 with var 'null')\n)\nwithId(\"database-02600\")"}

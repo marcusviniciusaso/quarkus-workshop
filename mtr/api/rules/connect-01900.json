@@ -1,0 +1,1 @@
+{"id":"connect-01900","content":"addRule()\n\t.when(File.from(null).inFilesNamed({*}spring-messaging{*}).as(default).or(File\n\t\t.from(null).inFilesNamed({*}spring-jms{*}).as(default)))\n)\n\t.perform(Iteration.over(?).perform(6 with var 'null')\n)\nwithId(\"connect-01900\")"}

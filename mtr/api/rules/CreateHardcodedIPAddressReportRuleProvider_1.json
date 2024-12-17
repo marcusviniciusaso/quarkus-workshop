@@ -1,0 +1,1 @@
+{"id":"CreateHardcodedIPAddressReportRuleProvider_1","content":"addRule()\n\t.when(Query.fromType(org.jboss.windup.rules.apps.java.ip.HardcodedIPLocationModel)\n\t\t.as(default)\n)\n\t.perform(org.jboss.windup.rules.apps.java.ip\n\t\t\t.CreateHardcodedIPAddressReportRuleProvider$1@70a5df79\n)\nwithId(\"CreateHardcodedIPAddressReportRuleProvider_1\")"}

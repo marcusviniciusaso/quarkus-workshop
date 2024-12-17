@@ -1,0 +1,1 @@
+{"id":"DiscoverXmlFilesRuleProvider_5","content":"addRule()\n\t.when(Query.fromType(org.jboss.windup.rules.apps.xml.model.XmlFileModel).as(default)\n)\n\t.perform(Iteration.over(?).perform(IndexXmlFilesMetadata)\n)\nwithId(\"DiscoverXmlFilesRuleProvider_5\")"}

@@ -1,0 +1,1 @@
+{"id":"connect-02800","content":"addRule()\n\t.when(File.from(null).inFilesNamed({*}qpid{*}).as(default)\n)\n\t.perform(Iteration.over(?).perform(15 with var 'null')\n)\nwithId(\"connect-02800\")"}

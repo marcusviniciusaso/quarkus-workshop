@@ -1,0 +1,1 @@
+{"id":"1720464","content":"package org.acme;\n\nimport org.springframework.boot.SpringApplication;\nimport org.springframework.boot.autoconfigure.SpringBootApplication;\n\n@SpringBootApplication\npublic class Chapter3SpringRestJsonApplication {\n   public static void main(String[] args) {\n      SpringApplication.run(Chapter3SpringRestJsonApplication.class, args);\n   }\n}\n"}

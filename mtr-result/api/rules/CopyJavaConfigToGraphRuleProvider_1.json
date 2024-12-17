@@ -1,0 +1,1 @@
+{"id":"CopyJavaConfigToGraphRuleProvider_1","content":"addRule()\n\t.perform(org.jboss.windup.rules.apps.java.config\n\t\t\t.CopyJavaConfigToGraphRuleProvider$1@4e7e56f5\n)\nwithId(\"CopyJavaConfigToGraphRuleProvider_1\")"}

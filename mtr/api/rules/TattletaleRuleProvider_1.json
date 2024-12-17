@@ -1,0 +1,1 @@
+{"id":"TattletaleRuleProvider_1","content":"addRule()\n\t.perform(org.jboss.windup.rules.apps.tattletale\n\t\t\t.TattletaleRuleProvider$TattletaleOperation@3207edc6\n)\nwithId(\"TattletaleRuleProvider_1\")"}

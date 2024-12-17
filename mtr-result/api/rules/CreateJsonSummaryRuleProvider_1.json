@@ -1,0 +1,1 @@
+{"id":"CreateJsonSummaryRuleProvider_1","content":"addRule()\n\t.when(Query.fromType(org.jboss.windup.graph.model.WindupConfigurationModel).gremlin()\n\t\t.has(exportSummary,EQUALS,true).as(default)\n)\n\t.perform(org.jboss.windup.rules.apps.java.reporting.rules\n\t\t\t.CreateJsonSummaryRuleProvider$1@7bef764c\n)\nwithId(\"CreateJsonSummaryRuleProvider_1\")"}

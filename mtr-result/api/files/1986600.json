@@ -1,0 +1,1 @@
+{"id":"1986600","content":"package org.aopalliance.intercept;\n\nimport java.lang.reflect.Method;\nimport javax.annotation.Nonnull;\n\npublic interface MethodInvocation extends Invocation {\n   @Nonnull\n   Method getMethod();\n}\n"}

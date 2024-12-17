@@ -1,0 +1,1 @@
+{"id":"1720328","content":"package ch.qos.logback.classic.net;\n\nclass SocketAcceptor extends Thread {\n   public void run() {\n   }\n}\n"}

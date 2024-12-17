@@ -1,0 +1,1 @@
+{"id":"FileMapping_.__.jsf$_V9","content":"addRule()\n\t.when(org.jboss.windup.rules.files.FileMapping.from(.*\\.jsf$).to([interface org.jboss\n\t\t.windup.rules.apps.xml.model.XmlFileModel])\n)\n\t.perform(org.jboss.windup.rules.files.FileMapping.from(.*\\.jsf$).to([interface org.jboss\n\t\t\t.windup.rules.apps.xml.model.XmlFileModel])\n)\nwithId(\"FileMapping_.*\\.jsf$_V9\")"}

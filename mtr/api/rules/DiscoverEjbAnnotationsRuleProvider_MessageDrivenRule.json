@@ -1,0 +1,1 @@
+{"id":"DiscoverEjbAnnotationsRuleProvider_MessageDrivenRule","content":"addRule()\n\t.when(JavaClass.references({ee-flavor}.ejb.MessageDriven).at([ANNOTATION]).as(default)\n)\n\t.perform(Iteration.over(?).perform( with var 'null')\n)\nwithId(\"DiscoverEjbAnnotationsRuleProvider_MessageDrivenRule\")"}

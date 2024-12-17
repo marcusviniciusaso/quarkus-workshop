@@ -1,0 +1,8 @@
+com/englishcentral/crud/model/Product.class
+com/englishcentral/crud/config/SwaggerConfig.class
+com/englishcentral/crud/controller/MainController.class
+com/englishcentral/crud/exception/AppException.class
+com/englishcentral/crud/payload/ProductRequest.class
+com/englishcentral/crud/payload/ApiResponse.class
+com/englishcentral/crud/repository/ProductRepository.class
+com/englishcentral/crud/CrudApplication.class

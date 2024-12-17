@@ -1,0 +1,1 @@
+{"id":"DecompileClassesRuleProvider_2","content":"addRule()\n\t.when(org.jboss.windup.rules.apps.java.condition.SourceMode@1f18ed36\n)\n\t.perform(org.jboss.windup.rules.apps.java.decompiler\n\t\t\t.CleanFromMultipleSourceFiles@123b6a8d\n)\nwithId(\"DecompileClassesRuleProvider_2\")"}

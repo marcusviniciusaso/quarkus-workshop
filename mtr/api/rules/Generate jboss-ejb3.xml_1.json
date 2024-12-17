@@ -1,0 +1,1 @@
+{"id":"Generate jboss-ejb3.xml_1","content":"addRule()\n\t.when(Query.fromType(org.jboss.windup.rules.apps.javaee.model\n\t\t.EjbDeploymentDescriptorModel).as(default)\n)\n\t.perform(Generate jboss-ejb3.xml\n)\nwithId(\"Generate jboss-ejb3.xml_1\")"}

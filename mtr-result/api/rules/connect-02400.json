@@ -1,0 +1,1 @@
+{"id":"connect-02400","content":"addRule()\n\t.when(File.from(null).inFilesNamed({*}rocketmq-client{*}).as(default)\n)\n\t.perform(Iteration.over(?).perform(11 with var 'null')\n)\nwithId(\"connect-02400\")"}

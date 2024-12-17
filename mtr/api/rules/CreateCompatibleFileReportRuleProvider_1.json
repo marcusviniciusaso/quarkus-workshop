@@ -1,0 +1,1 @@
+{"id":"CreateCompatibleFileReportRuleProvider_1","content":"addRule()\n\t.when(org.jboss.windup.rules.apps.java.reporting.rules\n\t\t.CreateCompatibleFileReportRuleProvider$1@3889ba2f\n)\n\t.perform(Iteration.over(?).perform(CreateCompatibleFilesApplicationReport)\n)\nwithId(\"CreateCompatibleFileReportRuleProvider_1\")"}

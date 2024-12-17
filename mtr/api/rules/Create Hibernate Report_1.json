@@ -1,0 +1,1 @@
+{"id":"Create Hibernate Report_1","content":"addRule()\n\t.when(Query.fromType(org.jboss.windup.rules.apps.javaee.model\n\t\t.HibernateConfigurationFileModel).as(default).or(Query.fromType(org.jboss\n\t\t.windup\n\t\t.rules.apps.javaee.model.HibernateEntityModel).as(default))\n)\n\t.perform(CreateHibernateReport\n)\nwithId(\"Create Hibernate Report_1\")"}

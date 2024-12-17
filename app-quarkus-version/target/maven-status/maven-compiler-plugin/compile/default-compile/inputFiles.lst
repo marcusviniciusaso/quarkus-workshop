@@ -1,0 +1,7 @@
+/Users/marolive/Documents/workspace/bradesco/quarkus-workshop/app-quarkus-version/src/main/java/com/englishcentral/crud/config/SwaggerConfig.java
+/Users/marolive/Documents/workspace/bradesco/quarkus-workshop/app-quarkus-version/src/main/java/com/englishcentral/crud/payload/ProductRequest.java
+/Users/marolive/Documents/workspace/bradesco/quarkus-workshop/app-quarkus-version/src/main/java/com/englishcentral/crud/CrudApplication.java
+/Users/marolive/Documents/workspace/bradesco/quarkus-workshop/app-quarkus-version/src/main/java/com/englishcentral/crud/repository/ProductRepository.java
+/Users/marolive/Documents/workspace/bradesco/quarkus-workshop/app-quarkus-version/src/main/java/com/englishcentral/crud/controller/MainController.java
+/Users/marolive/Documents/workspace/bradesco/quarkus-workshop/app-quarkus-version/src/main/java/com/englishcentral/crud/model/Product.java
+/Users/marolive/Documents/workspace/bradesco/quarkus-workshop/app-quarkus-version/src/main/java/com/englishcentral/crud/exception/AppException.java

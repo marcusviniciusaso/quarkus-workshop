@@ -1,0 +1,1 @@
+{"id":"CreateJavaIgnoredFilesReportRuleProvider_1","content":"addRule()\n\t.when(Query.fromType(org.jboss.windup.rules.apps.java.model\n\t\t.WindupJavaConfigurationModel).as(default)\n)\n\t.perform(Iteration.over(?).perform(CreateJavaApplicationOverviewReport)\n)\nwithId(\"CreateJavaIgnoredFilesReportRuleProvider_1\")"}

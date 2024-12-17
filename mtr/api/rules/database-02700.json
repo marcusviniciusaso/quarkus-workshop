@@ -1,0 +1,1 @@
+{"id":"database-02700","content":"addRule()\n\t.when(File.from(null).inFilesNamed({*}morphia{*}.jar).as(default)\n)\n\t.perform(Iteration.over(?).perform(14 with var 'null')\n)\nwithId(\"database-02700\")"}

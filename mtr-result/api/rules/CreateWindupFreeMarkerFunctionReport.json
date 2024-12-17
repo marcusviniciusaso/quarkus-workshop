@@ -1,0 +1,1 @@
+{"id":"CreateWindupFreeMarkerFunctionReport","content":"addRule()\n\t.perform(org.jboss.windup.reporting.rules.generation\n\t\t\t.CreateFreeMarkerMethodReportRuleProvider$CreateMethodReport@6d4b8524\n)\nwithId(\"CreateWindupFreeMarkerFunctionReport\")"}

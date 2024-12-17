@@ -1,0 +1,1 @@
+{"id":"connect-02600","content":"addRule()\n\t.when(File.from(null).inFilesNamed({*}jbossmq-client{*}).as(default)\n)\n\t.perform(Iteration.over(?).perform(13 with var 'null')\n)\nwithId(\"connect-02600\")"}

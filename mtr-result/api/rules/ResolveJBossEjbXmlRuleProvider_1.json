@@ -1,0 +1,1 @@
+{"id":"ResolveJBossEjbXmlRuleProvider_1","content":"addRule()\n\t.when(Query.fromType(org.jboss.windup.rules.apps.xml.model.XmlFileModel).gremlin()\n\t\t.has(rootTagName,EQUALS,ejb-jar).has(fileName,EQUALS,jboss-ejb3.xml)\n\t\t.as(default)\n)\n\t.perform(Iteration.over(?).perform(Discover JBoss EJB XML Files)\n)\nwithId(\"ResolveJBossEjbXmlRuleProvider_1\")"}

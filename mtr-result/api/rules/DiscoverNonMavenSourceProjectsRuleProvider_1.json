@@ -1,0 +1,1 @@
+{"id":"DiscoverNonMavenSourceProjectsRuleProvider_1","content":"addRule()\n\t.perform(ScanAsNonMavenProject\n)\nwithId(\"DiscoverNonMavenSourceProjectsRuleProvider_1\")"}

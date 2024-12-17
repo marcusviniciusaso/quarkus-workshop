@@ -1,0 +1,1 @@
+{"id":"javaee-api-to-quarkus-groovy-00000","content":"addRule()\n\t.when(And.all(JavaClass.references(javax.ws.rs.{*}).at([IMPORT]).as(discard), Project\n\t\t.dependsOnArtifact(org.jboss.windup.project.condition.Artifact@70a5ee5f))\n)\n\t.perform(Iteration.over(?).as(dependency_instance).perform(1 with var 'null')\n)\nwithId(\"javaee-api-to-quarkus-groovy-00000\")"}

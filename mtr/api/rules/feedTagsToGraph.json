@@ -1,0 +1,1 @@
+{"id":"feedTagsToGraph","content":"addRule()\n\t.perform(org.jboss.windup.reporting.rules.generation.techreport\n\t\t\t.CreateTechReportRuleProvider$1@5dd7302e\n)\nwithId(\"feedTagsToGraph\")"}

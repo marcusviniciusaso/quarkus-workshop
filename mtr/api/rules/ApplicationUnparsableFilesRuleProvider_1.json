@@ -1,0 +1,1 @@
+{"id":"ApplicationUnparsableFilesRuleProvider_1","content":"addRule()\n\t.perform(org.jboss.windup.reporting.data.rules.AbstractApiRuleProvider$1@1681bb0\n)\nwithId(\"ApplicationUnparsableFilesRuleProvider_1\")"}

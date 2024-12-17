@@ -1,0 +1,1 @@
+{"id":"connect-01500","content":"addRule()\n\t.when(File.from(null).inFilesNamed({*}activemq{*}).as(default)\n)\n\t.perform(Iteration.over(?).perform(2 with var 'null')\n)\nwithId(\"connect-01500\")"}

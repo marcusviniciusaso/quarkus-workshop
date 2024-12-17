@@ -1,0 +1,1 @@
+{"id":"Create Remote Services Report_1","content":"addRule()\n\t.when(Query.fromType(org.jboss.windup.rules.apps.javaee.model.RemoteServiceModel)\n\t\t.as(default)\n)\n\t.perform(CreateRemoteServiceReport\n)\nwithId(\"Create Remote Services Report_1\")"}

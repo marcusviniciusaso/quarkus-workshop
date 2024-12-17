@@ -1,0 +1,1 @@
+{"id":"connect-02900","content":"addRule()\n\t.when(File.from(null).inFilesNamed({*}kafka-clients{*}).as(default).or(File.from(null)\n\t\t.inFilesNamed({*}spring-kafka{*}).as(default)))\n)\n\t.perform(Iteration.over(?).perform(16 with var 'null')\n)\nwithId(\"connect-02900\")"}

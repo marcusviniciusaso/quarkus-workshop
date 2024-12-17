@@ -1,0 +1,1 @@
+{"id":"default-package-to-vendor-04900","content":"<package-mapping xmlns=\"http://windup.jboss.org/schema/jboss-ruleset\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" from=\"edu.oswego.cs.dl.util.concurrent\" id=\"default-package-to-vendor-04900\" to=\"OSWego Util Concurrent\"/>"}

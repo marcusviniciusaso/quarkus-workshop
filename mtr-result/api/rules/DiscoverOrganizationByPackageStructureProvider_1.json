@@ -1,0 +1,1 @@
+{"id":"DiscoverOrganizationByPackageStructureProvider_1","content":"addRule()\n\t.when(Query.fromType(org.jboss.windup.graph.model.ArchiveModel).as(default)\n)\n\t.perform(Iteration.over(?).perform( with var 'default_instance')\n)\nwithId(\"DiscoverOrganizationByPackageStructureProvider_1\")"}

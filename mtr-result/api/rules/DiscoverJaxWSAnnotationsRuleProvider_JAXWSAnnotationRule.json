@@ -1,0 +1,1 @@
+{"id":"DiscoverJaxWSAnnotationsRuleProvider_JAXWSAnnotationRule","content":"addRule()\n\t.when(JavaClass.references({ee-flavor}.jws.WebService).at([ANNOTATION])\n\t\t.as(jaxwsAnnotations)\n)\n\t.perform(Iteration.over(?).as(jaxwsAnnotations_instance).perform( with var 'null')\n)\nwithId(\"DiscoverJaxWSAnnotationsRuleProvider_JAXWSAnnotationRule\")"}

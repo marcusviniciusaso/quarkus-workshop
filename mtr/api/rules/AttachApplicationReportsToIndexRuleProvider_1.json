@@ -1,0 +1,1 @@
+{"id":"AttachApplicationReportsToIndexRuleProvider_1","content":"addRule()\n\t.when(Query.fromType(org.jboss.windup.reporting.model.ApplicationReportModel)\n\t\t.as(default)\n)\n\t.perform(Iteration.over(?).perform(AddToApplicationIndex)\n)\nwithId(\"AttachApplicationReportsToIndexRuleProvider_1\")"}

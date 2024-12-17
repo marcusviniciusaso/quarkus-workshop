@@ -1,0 +1,1 @@
+{"id":"DiscoverEjbAnnotationsRuleProvider_StatelessAndStatefulRule","content":"addRule()\n\t.when(JavaClass.references({ee-flavor}.ejb.{annotationType}).at([ANNOTATION])\n\t\t.as(default)\n)\n\t.perform(Iteration.over(?).perform( with var 'null')\n)\nwithId(\"DiscoverEjbAnnotationsRuleProvider_StatelessAndStatefulRule\")"}

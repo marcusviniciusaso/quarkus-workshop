@@ -1,0 +1,1 @@
+{"id":"Mavenize-BOM-data-collection","content":"addRule()\n\t.perform(org.jboss.windup.rules.apps.mavenize.MavenizeRuleProvider$1@3414b89d\n)\nwithId(\"Mavenize-BOM-data-collection\")"}

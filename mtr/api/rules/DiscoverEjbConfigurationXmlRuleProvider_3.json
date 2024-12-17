@@ -1,0 +1,1 @@
+{"id":"DiscoverEjbConfigurationXmlRuleProvider_3","content":"addRule()\n\t.when(JavaClass.references({ee-flavor}.ejb.EJBHome).at([INHERITANCE]).as(default)\n)\n\t.perform(Iteration.over(?).perform( with var 'null')\n)\nwithId(\"DiscoverEjbConfigurationXmlRuleProvider_3\")"}

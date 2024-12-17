@@ -1,0 +1,1 @@
+{"id":"1528032","content":"package org.springframework.aop.aspectj;\n\nimport org.springframework.core.Ordered;\nimport org.springframework.lang.Nullable;\n\npublic interface AspectInstanceFactory extends Ordered {\n   Object getAspectInstance();\n\n   @Nullable\n   ClassLoader getAspectClassLoader();\n}\n"}

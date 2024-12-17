@@ -1,0 +1,1 @@
+{"id":"Create JPA Report_1","content":"addRule()\n\t.perform(CreateJPAReport\n)\nwithId(\"Create JPA Report_1\")"}

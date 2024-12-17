@@ -1,0 +1,1 @@
+{"id":"RegisterApiPackagesInTypeInterestFactoryRuleProvider_2","content":"addRule()\n\t.perform(org.jboss.windup.rules.apps.mavenize\n\t\t\t.RegisterApiPackagesInTypeInterestFactoryRuleProvider$1@36bc12ae\n)\nwithId(\"RegisterApiPackagesInTypeInterestFactoryRuleProvider_2\")"}

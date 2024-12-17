@@ -1,0 +1,1 @@
+{"id":"DiscoverEjbConfigurationXmlRuleProvider_5","content":"addRule()\n\t.when(JavaClass.references({ee-flavor}.ejb.SessionBean).at([IMPLEMENTS_TYPE])\n\t\t.as(default)\n)\n\t.perform(Iteration.over(?).perform( with var 'null')\n)\nwithId(\"DiscoverEjbConfigurationXmlRuleProvider_5\")"}

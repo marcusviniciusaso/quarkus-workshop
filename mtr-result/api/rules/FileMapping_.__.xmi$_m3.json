@@ -1,0 +1,1 @@
+{"id":"FileMapping_.__.xmi$_m3","content":"addRule()\n\t.when(org.jboss.windup.rules.files.FileMapping.from(.*\\.xmi$).to([interface org.jboss\n\t\t.windup.rules.apps.xml.model.XmlFileModel])\n)\n\t.perform(org.jboss.windup.rules.files.FileMapping.from(.*\\.xmi$).to([interface org.jboss\n\t\t\t.windup.rules.apps.xml.model.XmlFileModel])\n)\nwithId(\"FileMapping_.*\\.xmi$_m3\")"}

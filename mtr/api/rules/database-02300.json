@@ -1,0 +1,1 @@
+{"id":"database-02300","content":"addRule()\n\t.when(File.from(null).inFilesNamed({*}axion{*}.jar).as(default)\n)\n\t.perform(Iteration.over(?).perform(10 with var 'null')\n)\nwithId(\"database-02300\")"}

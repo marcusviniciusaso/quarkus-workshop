@@ -1,0 +1,1 @@
+{"id":"connect-02500","content":"addRule()\n\t.when(File.from(null).inFilesNamed({*}jzmq{*}).as(default).or(File.from(null)\n\t\t.inFilesNamed({*}jeromq{*}).as(default)))\n)\n\t.perform(Iteration.over(?).perform(12 with var 'null')\n)\nwithId(\"connect-02500\")"}

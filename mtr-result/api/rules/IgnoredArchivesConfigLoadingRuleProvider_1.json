@@ -1,0 +1,1 @@
+{"id":"IgnoredArchivesConfigLoadingRuleProvider_1","content":"addRule()\n\t.perform(org.jboss.windup.rules.apps.java.archives.config\n\t\t\t.IgnoredArchivesConfigLoadingRuleProvider$1@53136d4a\n)\nwithId(\"IgnoredArchivesConfigLoadingRuleProvider_1\")"}

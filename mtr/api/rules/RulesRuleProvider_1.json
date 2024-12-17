@@ -1,0 +1,1 @@
+{"id":"RulesRuleProvider_1","content":"addRule()\n\t.perform(org.jboss.windup.reporting.data.rules.AbstractApiRuleProvider$1@7df7a89e\n)\nwithId(\"RulesRuleProvider_1\")"}

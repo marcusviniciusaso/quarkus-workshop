@@ -1,0 +1,1 @@
+{"id":"DiscoverArchiveTypesRuleProvider_1","content":"addRule()\n\t.when(Query.fromType(org.jboss.windup.graph.model.ArchiveModel).as(default)\n)\n\t.perform(Iteration.over(?).perform(ConfigureArchiveTypes)\n)\nwithId(\"DiscoverArchiveTypesRuleProvider_1\")"}

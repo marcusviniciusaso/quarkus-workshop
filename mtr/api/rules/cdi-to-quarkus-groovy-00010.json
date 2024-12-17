@@ -1,0 +1,1 @@
+{"id":"cdi-to-quarkus-groovy-00010","content":"addRule()\n\t.when(JavaClass.references(javax.inject.Inject).at([ANNOTATION]).as(main)\n)\n\t.perform(Iteration.over(?).as(main_instance).perform(1 with var 'null')\n)\nwithId(\"cdi-to-quarkus-groovy-00010\")"}

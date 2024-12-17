@@ -1,0 +1,1 @@
+{"id":"1773576","content":"package org.aopalliance.intercept;\n\nimport javax.annotation.Nonnull;\nimport javax.annotation.Nullable;\n\n@FunctionalInterface\npublic interface MethodInterceptor extends Interceptor {\n   @Nullable\n   Object invoke(@Nonnull MethodInvocation var1) throws Throwable;\n}\n"}

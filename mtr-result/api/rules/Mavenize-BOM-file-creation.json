@@ -1,0 +1,1 @@
+{"id":"Mavenize-BOM-file-creation","content":"addRule()\n\t.when(Query.fromType(org.jboss.windup.rules.apps.java.archives.model\n\t\t.IdentifiedArchiveModel).as(default)\n)\n\t.perform(Iteration.over(?)\n\t\t\t\n\t\t.perform(MavenizePutNewerVersionToGlobalBomOperation with var 'default_instance')\n)\nwithId(\"Mavenize-BOM-file-creation\")"}

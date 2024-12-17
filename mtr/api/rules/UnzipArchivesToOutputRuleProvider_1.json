@@ -1,0 +1,1 @@
+{"id":"UnzipArchivesToOutputRuleProvider_1","content":"addRule()\n\t.when(And.all(Query.fromType(org.jboss.windup.graph.model.ArchiveModel)\n\t\t.as(default), org.jboss.windup.rules.apps.java.condition.SourceMode@6c293f7b)\n)\n\t.perform(Iteration.over(?).perform(IgnoreArchivesInSourceModeOperation with var 'null')\n)\nwithId(\"UnzipArchivesToOutputRuleProvider_1\")"}

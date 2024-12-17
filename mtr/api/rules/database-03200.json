@@ -1,0 +1,1 @@
+{"id":"database-03200","content":"addRule()\n\t.when(File.from(null).inFilesNamed({*}mariadb{*}.jar).as(default)\n)\n\t.perform(Iteration.over(?).perform(19 with var 'null')\n)\nwithId(\"database-03200\")"}

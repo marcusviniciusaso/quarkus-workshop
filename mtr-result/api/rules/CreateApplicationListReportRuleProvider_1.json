@@ -1,0 +1,1 @@
+{"id":"CreateApplicationListReportRuleProvider_1","content":"addRule()\n\t.perform(org.jboss.windup.reporting.rules\n\t\t\t.CreateApplicationListReportRuleProvider$1@6c3a02ab\n)\nwithId(\"CreateApplicationListReportRuleProvider_1\")"}

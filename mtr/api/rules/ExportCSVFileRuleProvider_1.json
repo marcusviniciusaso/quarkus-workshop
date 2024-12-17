@@ -1,0 +1,1 @@
+{"id":"ExportCSVFileRuleProvider_1","content":"addRule()\n\t.when(Query.fromType(org.jboss.windup.graph.model.WindupConfigurationModel).gremlin()\n\t\t.has(csv,EQUALS,true).as(default)\n)\n\t.perform(Iteration.over(?).perform(ExportCSVReportOperation with var 'null')\n)\nwithId(\"ExportCSVFileRuleProvider_1\")"}

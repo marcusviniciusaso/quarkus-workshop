@@ -1,0 +1,1 @@
+{"id":"CreateMigrationIssuesReportRuleProvider_1","content":"addRule()\n\t.perform(org.jboss.windup.reporting.rules.generation\n\t\t\t\n\t\t.CreateMigrationIssuesReportRuleProvider$CreateMigrationIssueReportOperation@4acb\n\t\t\ta123\n)\nwithId(\"CreateMigrationIssuesReportRuleProvider_1\")"}

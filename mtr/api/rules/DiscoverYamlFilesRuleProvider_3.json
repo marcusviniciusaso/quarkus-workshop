@@ -1,0 +1,1 @@
+{"id":"DiscoverYamlFilesRuleProvider_3","content":"addRule()\n\t.when(Query.fromType(org.jboss.windup.rules.apps.yaml.model.YamlFileModel).as(default)\n)\n\t.perform(Iteration.over(?).perform(IndexYamlFilesMetadata)\n)\nwithId(\"DiscoverYamlFilesRuleProvider_3\")"}

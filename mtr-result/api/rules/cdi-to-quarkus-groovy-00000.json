@@ -1,0 +1,1 @@
+{"id":"cdi-to-quarkus-groovy-00000","content":"addRule()\n\t.when(JavaClass.references(javax.enterprise.context.{scope}).at([ANNOTATION])\n\t\t.as(placeholder1).or(JavaClass.references(javax.inject.Singleton)\n\t\t.at([ANNOTATION]).as(placeholder2)))\n)\nwithId(\"cdi-to-quarkus-groovy-00000\")"}

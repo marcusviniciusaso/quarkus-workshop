@@ -1,0 +1,1 @@
+{"id":"DiscoverDataSourceAnnotationRuleProvider_DataSourceDefinition","content":"addRule()\n\t.when(JavaClass.references(javax.annotation.sql.DataSourceDefinition).at([ANNOTATION])\n\t\t.as(default)\n)\n\t.perform(Iteration.over(?).perform( with var 'null')\n)\nwithId(\"DiscoverDataSourceAnnotationRuleProvider_DataSourceDefinition\")"}

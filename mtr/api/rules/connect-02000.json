@@ -1,0 +1,1 @@
+{"id":"connect-02000","content":"addRule()\n\t.when(File.from(null).inFilesNamed({*}camel-jms{*}).as(default)\n)\n\t.perform(Iteration.over(?).perform(7 with var 'null')\n)\nwithId(\"connect-02000\")"}

@@ -1,0 +1,1 @@
+{"id":"springboot-properties-to-quarkus-groovy-00000","content":"addRule()\n\t.when(JavaClass.references(org.springframework.boot.context.properties\n\t\t.ConfigurationProperties).at([ANNOTATION]).as(default)\n)\n\t.perform(Iteration.over(?).perform(1 with var 'default_instance')\n)\nwithId(\"springboot-properties-to-quarkus-groovy-00000\")"}

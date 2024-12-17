@@ -1,0 +1,1 @@
+{"id":"DiscoverJsfSourceFileRuleProvider_1","content":"addRule()\n\t.when(FileContent.from(null).matches({taglib1}).inFilesNamed({*}.{extension})\n\t\t.as(default)\n)\n\t.perform(Iteration.over(?).perform( with var 'null')\n)\nwithId(\"DiscoverJsfSourceFileRuleProvider_1\")"}

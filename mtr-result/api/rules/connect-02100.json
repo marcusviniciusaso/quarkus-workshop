@@ -1,0 +1,1 @@
+{"id":"connect-02100","content":"addRule()\n\t.when(File.from(null).inFilesNamed({*}aws-java-sdk-sqs{*}).as(default)\n)\n\t.perform(Iteration.over(?).perform(8 with var 'null')\n)\nwithId(\"connect-02100\")"}

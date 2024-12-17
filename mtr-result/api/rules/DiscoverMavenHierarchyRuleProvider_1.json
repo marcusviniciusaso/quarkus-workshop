@@ -1,0 +1,1 @@
+{"id":"DiscoverMavenHierarchyRuleProvider_1","content":"addRule()\n\t.when(Query.fromType(org.jboss.windup.rules.apps.java.model.project.MavenProjectModel)\n\t\t.as(default)\n)\n\t.perform(Iteration.over(?).perform(ConfigureProjectHierarchy)\n)\nwithId(\"DiscoverMavenHierarchyRuleProvider_1\")"}

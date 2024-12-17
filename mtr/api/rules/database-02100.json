@@ -1,0 +1,1 @@
+{"id":"database-02100","content":"addRule()\n\t.when(File.from(null).inFilesNamed({*}jodbc{*}.jar).as(default).or(File.from(null)\n\t\t.inFilesNamed({*}ojdbc{*}.jar).as(default)))\n)\n\t.perform(Iteration.over(?).perform(8 with var 'null')\n)\nwithId(\"database-02100\")"}

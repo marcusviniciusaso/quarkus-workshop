@@ -1,0 +1,1 @@
+{"id":"Create Spring Bean Report_1","content":"addRule()\n\t.when(Query.fromType(org.jboss.windup.rules.apps.javaee.model.SpringBeanModel)\n\t\t.as(default)\n)\n\t.perform(CreateSpringBeanReport\n)\nwithId(\"Create Spring Bean Report_1\")"}

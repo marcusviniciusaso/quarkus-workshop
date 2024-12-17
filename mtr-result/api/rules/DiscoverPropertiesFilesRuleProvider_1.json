@@ -1,0 +1,1 @@
+{"id":"DiscoverPropertiesFilesRuleProvider_1","content":"addRule()\n\t.when(Query.fromType(org.jboss.windup.graph.model.resource.FileModel).gremlin()\n\t\t.has(isDirectory,EQUALS,false).has(filePath,REGEX,.*\\.properties$).as(default)\n)\n\t.perform(Iteration.over(?).perform(Discover Properties Files)\n)\nwithId(\"DiscoverPropertiesFilesRuleProvider_1\")"}

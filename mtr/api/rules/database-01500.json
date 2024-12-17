@@ -1,0 +1,1 @@
+{"id":"database-01500","content":"addRule()\n\t.when(File.from(null).inFilesNamed({*}mysql-connector{*}.jar).as(default)\n)\n\t.perform(Iteration.over(?).perform(2 with var 'null')\n)\nwithId(\"database-01500\")"}

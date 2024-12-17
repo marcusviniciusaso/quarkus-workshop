@@ -1,0 +1,1 @@
+{"id":"AnalyzeJSPFileRuleProvider_1","content":"addRule()\n\t.when(Query.fromType(org.jboss.windup.rules.apps.javaee.model.JspSourceFileModel)\n\t\t.as(default)\n)\n\t.perform(Iteration.over(?).perform(ParseSourceOperation with var 'null')\n)\nwithId(\"AnalyzeJSPFileRuleProvider_1\")"}

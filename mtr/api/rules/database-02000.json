@@ -1,0 +1,1 @@
+{"id":"database-02000","content":"addRule()\n\t.when(File.from(null).inFilesNamed({*}sqlite-jdbc{*}.jar).as(default)\n)\n\t.perform(Iteration.over(?).perform(7 with var 'null')\n)\nwithId(\"database-02000\")"}

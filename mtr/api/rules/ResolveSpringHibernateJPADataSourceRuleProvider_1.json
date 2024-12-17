@@ -1,0 +1,1 @@
+{"id":"ResolveSpringHibernateJPADataSourceRuleProvider_1","content":"addRule()\n\t.when(Query.fromType(org.jboss.windup.rules.apps.javaee.model.SpringBeanModel)\n\t\t.as(default)\n)\n\t.perform(Iteration.over(?).perform(Resolve Spring JNDI to DataSource)\n)\nwithId(\"ResolveSpringHibernateJPADataSourceRuleProvider_1\")"}

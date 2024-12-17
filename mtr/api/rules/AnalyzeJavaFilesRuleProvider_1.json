@@ -1,0 +1,1 @@
+{"id":"AnalyzeJavaFilesRuleProvider_1","content":"addRule()\n\t.perform(ParseJavaSource\n)\nwithId(\"AnalyzeJavaFilesRuleProvider_1\")"}

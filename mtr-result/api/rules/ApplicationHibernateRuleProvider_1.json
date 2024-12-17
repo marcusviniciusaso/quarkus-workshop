@@ -1,0 +1,1 @@
+{"id":"ApplicationHibernateRuleProvider_1","content":"addRule()\n\t.perform(org.jboss.windup.reporting.data.rules.AbstractApiRuleProvider$1@298b7191\n)\nwithId(\"ApplicationHibernateRuleProvider_1\")"}

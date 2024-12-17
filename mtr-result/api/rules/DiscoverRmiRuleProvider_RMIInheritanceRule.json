@@ -1,0 +1,1 @@
+{"id":"DiscoverRmiRuleProvider_RMIInheritanceRule","content":"addRule()\n\t.when(JavaClass.references(java.rmi.Remote).at([IMPORT]).as(rmiInheritance)\n)\n\t.perform(Iteration.over(?).as(rmiInheritance_instance).perform( with var 'null')\n)\nwithId(\"DiscoverRmiRuleProvider_RMIInheritanceRule\")"}

@@ -1,0 +1,1 @@
+{"id":"1888400","content":"package org.aopalliance.intercept;\n\nimport java.lang.reflect.AccessibleObject;\nimport javax.annotation.Nonnull;\nimport javax.annotation.Nullable;\n\npublic interface Joinpoint {\n   @Nullable\n   Object proceed() throws Throwable;\n\n   @Nullable\n   Object getThis();\n\n   @Nonnull\n   AccessibleObject getStaticPart();\n}\n"}
